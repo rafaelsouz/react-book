@@ -6,7 +6,7 @@ ReactBook
 
 <h2 align="center">Site</h2>
 <h3 align="center">
-<img align="center" width=700 src="./screenshots.png"/>
+<img align="center" width=700 src="./screenshot.png"/>
 </h3>
 <br/>
 
